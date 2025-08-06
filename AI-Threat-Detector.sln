@@ -1,0 +1,39 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreatDetector.API", "src\ThreatDetector.API\ThreatDetector.API.csproj", "{2C8F6B45-1234-4567-8901-123456789ABC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreatDetector.Core", "src\ThreatDetector.Core\ThreatDetector.Core.csproj", "{3C8F6B45-1234-4567-8901-123456789DEF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreatDetector.ML", "src\ThreatDetector.ML\ThreatDetector.ML.csproj", "{4C8F6B45-1234-4567-8901-123456789GHI}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreatDetector.Data", "src\ThreatDetector.Data\ThreatDetector.Data.csproj", "{5C8F6B45-1234-4567-8901-123456789JKL}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C8F6B45-1234-4567-8901-123456789ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C8F6B45-1234-4567-8901-123456789ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C8F6B45-1234-4567-8901-123456789ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C8F6B45-1234-4567-8901-123456789ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C8F6B45-1234-4567-8901-123456789DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C8F6B45-1234-4567-8901-123456789DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C8F6B45-1234-4567-8901-123456789DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C8F6B45-1234-4567-8901-123456789DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C8F6B45-1234-4567-8901-123456789GHI}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C8F6B45-1234-4567-8901-123456789GHI}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C8F6B45-1234-4567-8901-123456789GHI}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C8F6B45-1234-4567-8901-123456789GHI}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C8F6B45-1234-4567-8901-123456789JKL}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C8F6B45-1234-4567-8901-123456789JKL}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C8F6B45-1234-4567-8901-123456789JKL}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C8F6B45-1234-4567-8901-123456789JKL}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal 
