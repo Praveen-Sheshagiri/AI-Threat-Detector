@@ -10,6 +10,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreatDetector.ML", "src\Th
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreatDetector.Data", "src\ThreatDetector.Data\ThreatDetector.Data.csproj", "{5C8F6B45-1234-4567-8901-123456789JKL}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreatDetector.SDK", "sdk\ThreatDetector.SDK.csproj", "{6C8F6B45-1234-4567-8901-123456789MNO}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreatDetector.Demo", "demo\ThreatDetector.Demo.csproj", "{7C8F6B45-1234-4567-8901-123456789PQR}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,8 +36,16 @@ Global
 		{5C8F6B45-1234-4567-8901-123456789JKL}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C8F6B45-1234-4567-8901-123456789JKL}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C8F6B45-1234-4567-8901-123456789JKL}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C8F6B45-1234-4567-8901-123456789MNO}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C8F6B45-1234-4567-8901-123456789MNO}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C8F6B45-1234-4567-8901-123456789MNO}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C8F6B45-1234-4567-8901-123456789MNO}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C8F6B45-1234-4567-8901-123456789PQR}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C8F6B45-1234-4567-8901-123456789PQR}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C8F6B45-1234-4567-8901-123456789PQR}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C8F6B45-1234-4567-8901-123456789PQR}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-EndGlobal 
+EndGlobal
